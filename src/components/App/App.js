@@ -228,6 +228,7 @@ class App extends Component {
   render() {
     return (
       <Container className={style.root}>
+        hola papus
         <Menu/>
         <Grid>
           <Grid.Column width={12}>
